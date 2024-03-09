@@ -1,4 +1,4 @@
-package com.iammelvink.brain.trainer;
+package com.iammelvink.braintrainer;
 
 import android.os.Bundle;
 import android.os.CountDownTimer;
